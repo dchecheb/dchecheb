@@ -1,5 +1,5 @@
 <h2 align='center'>👋 Hey! Nice to see you 👋</h2>
-<p align='center'>Welcome to my profile!<br>I'm Chaeyun, Backend developer from Korea.</p>
+<p align='center'>Welcome to my profile!<br>I'm Chaeyun, Junior Backend developer from Korea.</p>
 <br>
 <h3 align='center'>🔨 Things I code with 🔧</h3>
 <p align='center'>
